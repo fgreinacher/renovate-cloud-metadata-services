@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor:v1.19.2-debug@sha256:899886a2db1c127ff1565d5c7b1e574af1810bbdad048e9850e4f40b5848d79c
+FROM gcr.io/kaniko-project/executor:v1.24.0-debug@sha256:2562c4fe551399514277ffff7dcca9a3b1628c4ea38cb017d7286dc6ea52f4cd
